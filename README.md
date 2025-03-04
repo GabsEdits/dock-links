@@ -1,7 +1,11 @@
 <div align="center">
 <h1>Dock Links</h1>
 <p>Quick access to your links, securely and scalable.</p>
-<small>Based on [Quick Links](https://github.com/GabsEdits/quick-links), but Docker-only.</small>
+<small>
+
+Based on [Quick Links](https://github.com/GabsEdits/quick-links), but Docker-only.
+
+</small>
 </div>
 
 ## Intention
