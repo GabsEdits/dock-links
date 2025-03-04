@@ -15,6 +15,7 @@ It was tested with [Coolify](https://coolify.io).
 
 I've made a video showing each and every detail of the application setup and usage.
 
+<video src="http://cdn.gxbs.dev/HeRO2/HUlecoLU56.mp4/raw" controls></video>
 
 ### Creating the new application
 
