@@ -16,7 +16,7 @@ export default defineConfig({
   themeConfig: {
     author: {
       name: "Gabriel Cozma",
-      link: "https://www.gxbs.me/",
+      link: "https://www.gxbs.dev/",
     },
   },
   vite: {
