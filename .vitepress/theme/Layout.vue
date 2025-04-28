@@ -88,7 +88,6 @@ const handleEscKey = (e: KeyboardEvent) => {
     if (e.key === "Escape") showPopup.value = false;
 };
 
-// Compute available cards dynamically
 const availableCards = computed(() =>
     Object.entries(envVars.cards)
         .filter(([_, card]) => card.subject)

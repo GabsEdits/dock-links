@@ -8,6 +8,9 @@ Based on [Quick Links](https://github.com/GabsEdits/quick-links), but Docker-onl
 </small>
 </div>
 
+![image](https://github.com/user-attachments/assets/3523bba8-b9d3-48b5-8ce2-498cf0f25a51)
+
+
 ## Intention
 
 It was created to provide an even simpler way to use Quick Links, but requiring only a Dockerfile
@@ -115,3 +118,7 @@ VITE_LINK1="https://example.com/1"
 VITE_LINK2="https://example.com/2"
 VITE_LINK3="https://example.com/3"
 ```
+
+## Licence
+
+See [LICENSE](LICENSE)
