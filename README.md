@@ -121,4 +121,4 @@ VITE_LINK3="https://example.com/3"
 
 ## Licence
 
-See [LICENSE](LICENSE)
+See [LICENSE](/LICENSE.txt)
